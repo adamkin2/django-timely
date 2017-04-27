@@ -38,7 +38,8 @@ CORE_APPS = [
     'django.contrib.staticfiles',
 ]
 LOCAL_APPS = [
-    'authentication'
+    'authentication',
+    'core'
 ]
 
 THIRD_PARTY_APPS = [
